@@ -1,4 +1,4 @@
-# ML_Coursera
+# ML Coursera
 Contains my materials collected from online courses on Machine Learning.
 # Motivation
 One day after my ordinary university classes I decide to find something new. Something, which I never used before. 
