@@ -5,6 +5,6 @@ One day after my ordinary university classes I decide to find something new. Som
 And tried online courses format. Now I can say, that this format is one of the best ways to start learning something completely
 unrelated to your current field of interest.
 # Screenshots
-Solarized dark             |  Solarized Ocean
+Yandex |  MIPT
 :-------------------------:|:-------------------------:
 ![](./images/yandex.png)  |  ![](./images/mipt.png)
