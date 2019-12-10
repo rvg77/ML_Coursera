@@ -5,7 +5,5 @@ One day after my ordinary university classes I decide to find something new. Som
 And tried online courses format. Now I can say, that this format is one of the best ways to start learning something completely
 unrelated to your current field of interest.
 # Screenshots
-<p float="left">
-  <img src="./images/yandex.png" width="100" />
-  <img src="./images/mipt.png" width="100" />
-</p>
+![alt-text-1](./images/yandex.png "Yandex") ![alt-text-2](./images/mipt.png "MIPT")
+
